@@ -4,6 +4,7 @@ Every published TellyFox build. Older builds are kept, never replaced.
 
 | Version | Build | APK |
 | --- | --- | --- |
+| 0.4.71 | 115 | [TellyFox-0.4.71-arm64.apk](TellyFox-0.4.71-arm64.apk) |
 | 0.4.70 | 114 | [TellyFox-0.4.70-arm64.apk](TellyFox-0.4.70-arm64.apk) |
 | 0.4.69 | 113 | [TellyFox-0.4.69-arm64.apk](TellyFox-0.4.69-arm64.apk) |
 | 0.4.68 | 112 | [TellyFox-0.4.68-arm64.apk](TellyFox-0.4.68-arm64.apk) |
